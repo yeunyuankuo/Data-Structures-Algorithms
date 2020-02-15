@@ -6,8 +6,4 @@ This repository's sole purpose is to remind future me how some of the data struc
 * [OneDimensionalArray](https://github.com/yeunyuankuo/OneDimensionalArray "https://github.com/yeunyuankuo/OneDimensionalArray")
 * [TwoDimensionalArray](https://github.com/yeunyuankuo/TwoDimensionalArray "https://github.com/yeunyuankuo/OneDimensionalArray")
 
-<details><summary>Array</summary>
-<p>[coming soon]</p>
-</details>
-
-
+## Linked List
