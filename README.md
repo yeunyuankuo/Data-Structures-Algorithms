@@ -7,3 +7,7 @@ This repository's sole purpose is to remind future me how some of the data struc
 * [TwoDimensionalArray](https://github.com/yeunyuankuo/TwoDimensionalArray "https://github.com/yeunyuankuo/OneDimensionalArray")
 
 ## Linked List
+* Singly Linked List
+* Circular Singly Linked List
+* Doubly Linked List
+* Circular Doubly Linked List
