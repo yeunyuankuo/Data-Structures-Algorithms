@@ -3,7 +3,7 @@
 This repository's sole purpose is to remind how some of the data structures and algorithms work in one page.
 
 ## Array
-<details open><summary>Array's Detailed Explanation</summary>
+<details><summary>Array's Detailed Explanation</summary>
   
 ### Properties of Array
 * Array can store data of specified data type
