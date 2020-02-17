@@ -15,6 +15,7 @@ Array is a datastructure consisting of a collection of elements, each identified
 * **One Dimensional Array** -> arr[col]
 * **Two Dimensional Array** -> arr[row][col]
 * **Three Dimensional Array** -> arr[depth][row][col]
+
 _Note: **Java** supports upto **255** dimensional array:clap::clap::clap:_
 
 ### Time and Space Complexity of 1D Array
