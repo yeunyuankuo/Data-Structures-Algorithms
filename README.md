@@ -3,6 +3,8 @@
 This repository's sole purpose is to remind how some of the data structures and algorithms work in one page.
 
 ## Array
+<details open><summary>Array's Detailed Explanation</summary>
+  
 ### Properties of Array
 * Array can store data of specified data type
 * It has **contiguous** memory location
@@ -49,6 +51,7 @@ Deleting a given cell's value | O(1) | O(1)
 ### Array Implementations
 * [OneDimensionalArray](https://github.com/yeunyuankuo/Data-Structures-Algorithms/blob/master/Array/OneDimensionalArray.java)
 * [TwoDimensionalArray](https://github.com/yeunyuankuo/Data-Structures-Algorithms/blob/master/Array/TwoDimensionalArray.java)
+</details>
 
 ## Linked List
 * Singly Linked List
