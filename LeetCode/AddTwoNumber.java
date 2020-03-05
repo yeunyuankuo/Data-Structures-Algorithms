@@ -7,7 +7,7 @@
  */
 public class AddTwoNumber {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        // Time complexity: O(N + M); N: l1.length, M: l2.length
+        // Time complexity: O(Max(N,M)); N: l1.length, M: l2.length
         // Space complexity: O(Max(N,M))
         int overTen = 0;
         ListNode result = new ListNode(-1);
