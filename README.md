@@ -53,8 +53,3 @@ Deleting a given cell's value | O(1) | O(1)
 * [TwoDimensionalArray](https://github.com/yeunyuankuo/Data-Structures-Algorithms/blob/master/Array/TwoDimensionalArray.java)
 </details>
 
-## Linked List
-* Singly Linked List
-* Circular Singly Linked List
-* Doubly Linked List
-* Circular Doubly Linked List
