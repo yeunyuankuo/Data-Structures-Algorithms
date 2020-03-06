@@ -53,3 +53,52 @@ Deleting a given cell's value | O(1) | O(1)
 * [TwoDimensionalArray](https://github.com/yeunyuankuo/Data-Structures-Algorithms/blob/master/Array/TwoDimensionalArray.java)
 </details>
 
+
+## LeetCode Checklist
+### Array
+- [x] Two Sum (E)
+### Linked List
+- [x] Add Two Numbers (E)
+- [x] Merge Two Sorted Lists (E)
+- [x] Linked List Cycle (E)
+- [x] Reverse Linked List (E)
+- [x] Delete Node in a Linked List (E)
+- [x] Merge k Sorted Lists (H)
+### Stack
+### Queue
+### Recursion
+### Math
+### Backtracking
+### String
+### Tree
+### Binary Search Tree
+### Graph
+### Hash Table
+### Heap
+### Trie
+### Sorting
+### Binary Search
+### Sliding Window
+### BFS
+### DFS
+### Bit Manipulation
+### Segment Tree
+### Union Find
+### Ordered Map
+### Minimax
+### Binary Indexed Tree
+### Line Sweep
+### Random
+### Brainteaser
+### Geometry
+### Two Pointers
+### Rejection Sampling
+### Reservoir Sampling
+### Rolling Hash
+### Suffix Array
+### Desing
+### Greedy
+### Divide and Conquer
+### Dynamic Programming
+### Shell
+### Concurrency
