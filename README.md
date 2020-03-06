@@ -60,7 +60,7 @@ Deleting a given cell's value | O(1) | O(1)
 :scream:: revisit
 ### Array
 - [x] Two Sum (E)
-- [x] Trapping Rain Water (H) :point_up_2:
+- [x] Trapping Rain Water (H)
 ### Linked List
 - [x] Add Two Numbers (E)
 - [x] Merge Two Sorted Lists (E)
