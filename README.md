@@ -72,6 +72,8 @@ Deleting a given cell's value | O(1) | O(1)
 - [x] Valid Parentheses (E)
 - [x] Min Stack (E)  :scream:
 - [x] Binary Search Tree Iterator (M) :scream:
+- [ ] Minimum Cost Tree From Leaf Values (M)
+- [ ] Daily Temperatures (M)
 ### Queue
 ### Recursion
 ### Math
