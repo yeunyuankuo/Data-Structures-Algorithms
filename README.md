@@ -71,6 +71,7 @@ Deleting a given cell's value | O(1) | O(1)
 ### Stack
 - [x] Valid Parentheses (E)
 - [x] Min Stack (E)  :scream:
+- [x] Binary Search Tree Iterator (M) :scream:
 ### Queue
 ### Recursion
 ### Math
