@@ -1,7 +1,5 @@
 # Linked List
 
-## TODO:
-
 ### Easy
 - [x] Add Two Numbers
 - [x] Merge Two Sorted Lists
