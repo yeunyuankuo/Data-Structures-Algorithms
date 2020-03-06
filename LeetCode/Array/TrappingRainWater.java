@@ -1,7 +1,26 @@
 package Array;
 
 public class TrappingRainWater {
-    public int trap(int[] height) {
+    public int trapOptimalSolution(int[] height) {
+        // Time complexity = O(N)
+        // Space complexity = O(1)
+        if (height.length == 0) return 0;
+        int left = 0;
+        int right = height.length-1;
+        int leftMax = 0;
+        int rightMax = 0;
+        int waterTrapped = 0;
+        while (left < right) {
+            if (height[left] > leftMax) leftMax = height[left];
+            if (height[right] > rightMax) rightMax = height[right];
+            waterTrapped += (leftMax - height[left]) + (rightMax - height[right]);
+            if (height[left] < height[right]) left++;
+            else right--;
+        }
+        return waterTrapped;
+    }
+    
+    public int trapDPsolution(int[] height) {
         // Time complexity = O(N)
         // Space complexity = O(N)
         if (height.length == 0) return 0;
