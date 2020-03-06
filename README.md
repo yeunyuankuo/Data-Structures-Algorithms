@@ -65,8 +65,8 @@ Deleting a given cell's value | O(1) | O(1)
 - [x] Delete Node in a Linked List (E)
 - [x] Merge k Sorted Lists (H)
 ### Stack
-- [x] Valid Parentheses
-- [x] Min Stack :scream:
+- [x] Valid Parentheses (E)
+- [x] Min Stack (E)  :scream:
 ### Queue
 ### Recursion
 ### Math
