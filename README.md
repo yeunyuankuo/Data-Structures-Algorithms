@@ -66,6 +66,7 @@ Deleting a given cell's value | O(1) | O(1)
 - [x] Merge k Sorted Lists (H)
 ### Stack
 - [x] Valid Parentheses
+- [x] Min Stack :scream:
 ### Queue
 ### Recursion
 ### Math
