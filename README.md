@@ -68,7 +68,7 @@ Deleting a given cell's value | O(1) | O(1)
   * `ch - 'A'` or `ch - 'a'` gives you the index of the alphabet. Depending on whether its capitalized or not
   
 * #### Questions involving Cycles
-  * Try Floyd's __Tortoise and Hare Algorithm__ to detecting a cycle
+  * Try Floyd's __Tortoise and Hare Algorithm__ to detect a cycle
     * Finding if there's duplicates in an array can also use this algo!
 
 </details>
