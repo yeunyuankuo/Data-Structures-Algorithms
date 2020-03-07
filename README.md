@@ -69,7 +69,7 @@ Deleting a given cell's value | O(1) | O(1)
   
 * #### Questions involving Cycles
   * Try Floyd's __Tortoise and Hare Algorithm__ to detect a cycle
-    * Finding if there's duplicates in an array can also use this algo!
+    * Finding if there's duplicates element in an array or duplicate char in a string can also use this algo!
     
 * #### How to write inline anonymous comparator for PriorityQueue
   ```java
