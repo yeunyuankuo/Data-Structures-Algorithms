@@ -76,7 +76,7 @@ Deleting a given cell's value | O(1) | O(1)
 - [ ] Daily Temperatures (M)
 ### Queue
 - [x] Moving Average From Data Stream (E)
-- [ ] Number Of Recent Calls (E)
+- [x] Number Of Recent Calls (E) :scream:
 - [ ] Task Scheduler (M)
 - [ ] Max Sum Of Rectangle No Larger Than K (H)
 ### Recursion
