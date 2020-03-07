@@ -87,6 +87,7 @@ Deleting a given cell's value | O(1) | O(1)
 - [x] Two Sum (E)
 - [x] Trapping Rain Water (H)
 - [x] Task Scheduler (M) :scream:
+- [ ] Find the Duplicate Number (M)
 ### Linked List
 - [x] Add Two Numbers (E)
 - [x] Merge Two Sorted Lists (E)
