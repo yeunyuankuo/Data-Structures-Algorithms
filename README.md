@@ -75,6 +75,10 @@ Deleting a given cell's value | O(1) | O(1)
 - [ ] Minimum Cost Tree From Leaf Values (M)
 - [ ] Daily Temperatures (M)
 ### Queue
+- [ ] Moving Average From Data Stream (E)
+- [ ] Number Of Recent Calls (E)
+- [ ] Task Scheduler (M)
+- [ ] Max Sum Of Rectangle No Larger Than K (H)
 ### Recursion
 ### Math
 ### Backtracking
