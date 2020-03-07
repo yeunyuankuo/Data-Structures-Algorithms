@@ -77,7 +77,7 @@ Deleting a given cell's value | O(1) | O(1)
 ### Queue
 - [x] Moving Average From Data Stream (E)
 - [x] Number Of Recent Calls (E) :scream:
-- [ ] Task Scheduler (M)
+- [ ] Task Scheduler (M) :scream:
 - [ ] Max Sum Of Rectangle No Larger Than K (H)
 ### Recursion
 ### Math
