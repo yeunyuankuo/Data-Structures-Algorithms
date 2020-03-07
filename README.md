@@ -58,9 +58,26 @@ Deleting a given cell's value | O(1) | O(1)
 :point_up_2:: optimal solution needed
 
 :scream:: revisit
+- - - -
+
+<details>
+  <summary>Things to remember when coding</summary>
+  
+* #### Questions involving Alphabet
+  * Check if you can use array of size 26 to save space
+  * `ch - 'A'` or `ch - 'a'` gives you the index of the alphabet. Depending on whether its capitalized or not
+  
+* #### Questions involving Cycles
+  * Try Floyd's __Tortoise and Hare Algorithm__ to detecting a cycle
+    * Finding if there's duplicates in an array can also use this algo!
+
+</details>
+
+- - - -
 ### Array
 - [x] Two Sum (E)
 - [x] Trapping Rain Water (H)
+- [x] Task Scheduler (M) :scream:
 ### Linked List
 - [x] Add Two Numbers (E)
 - [x] Merge Two Sorted Lists (E)
@@ -77,7 +94,6 @@ Deleting a given cell's value | O(1) | O(1)
 ### Queue
 - [x] Moving Average From Data Stream (E)
 - [x] Number Of Recent Calls (E) :scream:
-- [ ] Task Scheduler (M) :scream:
 - [ ] Max Sum Of Rectangle No Larger Than K (H)
 ### Recursion
 ### Math
