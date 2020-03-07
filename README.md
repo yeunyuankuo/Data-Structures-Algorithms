@@ -73,10 +73,10 @@ Deleting a given cell's value | O(1) | O(1)
     
 * #### How to write inline anonymous comparator for PriorityQueue
   ```java
-  PriorityQueue<ListNode> pq = new PriorityQueue<>(new Comparator<ListNode>() {
-    public int compare(ListNode n1, ListNode n2) {
-      return n1.val - n2.val;
-    }
+  PriorityQueue<ListNode> minHeap = new PriorityQueue<>(new Comparator<>(){
+      public int compare(ListNode node1, ListNode node2) {
+          return node1.val - node2.val;
+      }
   });
   ```
 
