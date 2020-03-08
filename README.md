@@ -79,6 +79,14 @@ Deleting a given cell's value | O(1) | O(1)
       }
   });
   ```
+* #### Running Time Depends On:
+  * Single vs Multi Processor
+  * Read/Write Speed to Memory
+  * 32 bit vs 64 bit machine
+  * Input
+  
+* #### Time Complexity Analysis - General Rules
+  * Running Time = Σ Running time of all fragments
 
 </details>
 
